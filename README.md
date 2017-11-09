@@ -8,7 +8,7 @@ Requirements & Instructions
 1. The application must be a .NET console application written in C#.
 2. The application should be contained in one .CS file. 
 3. The output from the  application must be identical to what is listed in "Sample Output", so pay attention to the format of the expected output.
-4. When you have completed the exercise, save the .CS file as "yourname.numberpairs.txt" where "yourname" is your first and last name.   For example your name is John Smith, you would send a file named "johnsmith.numberpairs.txt".  Email the file to quiz@entrecs.com. 
+4. When you have completed the exercise, save the .CS file as "yourname.numberpairs.txt" where "yourname" is your first and last name.   For example your name is John Smith, you would send a file named "johnsmith.numberpairs.txt".  Email the file to yousuck@company.com. 
  
 Sample Output
  
